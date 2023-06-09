@@ -1,2 +1,2 @@
-0 Pikachu
-1 Eevee
+0 debug_duck
+1 fat_gripz
